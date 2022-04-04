@@ -1,4 +1,6 @@
-Hello!👋 My name's RizqyRiz. A 20 year-old University student aspiring to be a game developer!🎮- 🖥️🖱️ Learning Java, C#, PHP
+Hello👋 My name's RizqyRiz. A 20yo dude aspiring to be a game developer🎮
+- Currently in university majoring in software engineering
+- 🖥️🖱️ Learning Java, C#, PHP
 - 🎮📖 Hobbies includes playing video games, reading manga/novels
 
 
