@@ -1,4 +1,4 @@
-Hello👋 My name's RizqyRiz. A 20yo dude aspiring to be a game developer🎮
+Hey there👋 My name's Danial. A 20yo dude aspiring to be a game developer🎮
 - 👨‍🎓 Currently in university taking a major in software engineering
 - 🖥️ Learning Java, C#, PHP
 - 🎮 Hobbies includes playing video games, watching anime and YouTube, and reading manga and novels
